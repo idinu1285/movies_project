@@ -21,7 +21,7 @@ class Media:
         :param market_dupl: duplicates of movies market countries
         :param production_studio_dupl: duplicates of production movies studios
         '''
-        self.market = market_dupl
+        self.market_dupl = market_dupl
         self.production_studio_dupl = production_studio_dupl
 
     def market_country(self):
