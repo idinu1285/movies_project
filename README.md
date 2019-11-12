@@ -1,2 +1,1 @@
-# movies_project
-Extract data from a CSV file using csv library in Python
+# Exploring a csv file in Python
